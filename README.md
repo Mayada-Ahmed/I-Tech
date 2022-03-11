@@ -20,7 +20,7 @@ interest.
 - User can check-out the products he bought `and more features`.
 
 # Getting Started
-- Clone the repository using the command git clone `https://github.com/Mayada-Ahmed/I-Tech-Store.git` and checkout the `main` branch.
+- Clone the repository using the command git clone `https://github.com/Mayada-Ahmed/I-Tech.git` and checkout the `main` branch.
 
 # Visual Studio
 - Download Visual Studio 2022 (any edition) from https://www.visualstudio.com/downloads/
